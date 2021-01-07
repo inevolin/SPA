@@ -37,6 +37,12 @@ An alternative method involves manipulating the URL address instead of the hash.
 
 This method may be more desired for SEO purposes but it has a major downside. When you actually reload the page you get a 404 error because the path `/SPA/contact` does not actually exist on the server. The sole workaround for such errors is to add rewrite/redirection rules to your HTTP server.
 
+## Partners
+*Let us know if you are using SPA, we will add you here.*
+
+https://nevolin.be/codr/ - Coding Challenges and Puzzles
+
+
 ## Support
 
 For enquiries or issues get in touch with me:
