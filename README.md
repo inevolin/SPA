@@ -42,11 +42,10 @@ This method may be more desired for SEO purposes but it has a major downside. Wh
 
 https://nevolin.be/codr/ - Coding Challenges and Puzzles
 
-
-## Support
+## Contact
 
 For enquiries or issues get in touch with me:
 
-Name: Ilya Nevolin
+Name: [Ilya Nevolin](https://www.linkedin.com/in/iljanevolin/)
 
 Email: ilja.nevolin@gmail.com
